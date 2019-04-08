@@ -3,19 +3,18 @@ k-means-Clustering-Algorithm
 Simple k-means clustering algorithm, kmeans, using the Euclidean distance for 2-dimensional numerical data.
 
 Program executes as follows:
-kmeans k input.txt
-where input parameter k > 1 is an integer, specifying the number of clusters. 
-input.txt is an input file containing many 2-dimensional data points in the following format,
-	274   119
-	317   144
-            267   164
-            233   137
-            272   99
-            297   116
-            268   142
-            522   286
-            468   308
-            441   263
+kmeans k input.txt, where input parameter k > 1 is an integer, specifying the number of clusters. input.txt is an input file containing many 2-dimensional data points in the following format,
+
+274   119
+317   144
+267   164
+233   137
+272   99
+297   116
+268   142
+522   286
+468   308
+441   263
 Program outputs a txt file called output.txt, in the following format:
             274   119   1
             317   144   1
