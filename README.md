@@ -6,8 +6,8 @@ Program executes as follows:
 kmeans k input.txt
 where input parameter k > 1 is an integer, specifying the number of clusters. 
 input.txt is an input file containing many 2-dimensional data points in the following format,
-            274   119
-            317   144
+	274   119
+	317   144
             267   164
             233   137
             272   99
