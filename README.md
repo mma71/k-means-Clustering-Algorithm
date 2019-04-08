@@ -8,4 +8,6 @@ input.txt is an input file containing many 2-dimensional data points
 Program outputs a txt file called output.txt, in the following format:
 In output.txt, 1 and 2 are cluster labels. Each data point is labeled using one of the labels from 1 to k.
 
+You can run it with "python fileName.py" and it will run the 4 test cases inputX.txt and generate outputX.txt
+
 **Please Note: code is written in Python 3**
